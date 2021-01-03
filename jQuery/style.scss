@@ -1,0 +1,25 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  margin: 1rem;
+  .button {
+    background-color: lightgreen;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: green;
+    display: inline-block;
+    padding: 0.5rem 3rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+  }
+
+  .box {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(179, 179, 11);
+    border-radius: 20px;
+  }
+}
